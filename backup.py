@@ -16,8 +16,8 @@ import shutil
 
 
 ####################Parameters####################
-serviceJson = r"C:\Users\Tanner\Documents\credentials.json"
-documents_location = r"C:\Users\Tanner\Documents" #   r"C:\Users\Tanner\Documents\My Cheat Tables" #-> testing small folder  
+serviceJson = r"C:\Users\Tanner\OneDrive\Documents\credentials.json"
+documents_location = r"C:\Users\Tanner\OneDrive\Documents" #   r"C:\Users\Tanner\Documents\My Cheat Tables" #-> testing small folder  
 targetName = "Desktop Documents Backups" #Required google drive folder
 ####################################################
 

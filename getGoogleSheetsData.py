@@ -2,7 +2,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 import gspread, random, time
 
 
-documents_location = r"C:\Users\Tanner\Documents"
+documents_location = r"C:\Users\Tanner\OneDrive\Documents"
 json_token_file_path = fr"{documents_location}\client_json_desktop.json"
 basePath = fr"{documents_location}\BackupAuto\Data"
 notebookName = "GithubLinks"
