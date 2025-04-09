@@ -30,7 +30,7 @@ tokenPath = fr"{documents_location}\token.json"
 
 
 
-downloads_location = documents_location.replace(r"\Documents", r"\Downloads")
+downloads_location = documents_location.replace(r"\Documents", r"\Downloads").replace(r"\OneDrive", "")
 # Ensure the filename is correctly formatted for output
 zip_filename = downloads_location + fr"\Documents_{formatted_date}.zip"
 
